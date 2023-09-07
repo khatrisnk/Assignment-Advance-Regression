@@ -22,12 +22,12 @@ Link to the [Data definition](./Data_definition.pdf)
 
 ## Instructions
 
-1. Build a regression model using regularisation.
+1. Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 2. Determine the optimal value of lambda for ridge and lasso regression
 
 ## Platform Used
 
-    - Kaggle
+    - Jupyter notbook
 
 ## Library Used
 
