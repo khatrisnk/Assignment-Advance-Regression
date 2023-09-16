@@ -37,6 +37,17 @@ Link to the [Data definition](./Data_definition.pdf)
     - Seaborn
     - sklearn
 
+## Recomendations
+
+1. R2 Score for Lasso Regression is 9.266148e-01(train) and 8.803521e-01(test). Lasso Regression Model is best for interpretation.
+2. Top 10 feature from Lasso comes out as below:
+
+    2.1. Living area on ground floor, overall quality of material and finish, basement area, lot area are the significant factory for sale price of peoperty.
+
+    2.2. Specific Neighborhood also play a critical role (Northridge, Northridge Heights, Stone Brook and Crawford)
+
+    2.3. Basement full bathroom and good basement exposure are also critical to predict sale price.
+
 
 ## Contact
 Created by [@khatrisnk](https://www.github.com/khatrisnk) - feel free to contact me!
